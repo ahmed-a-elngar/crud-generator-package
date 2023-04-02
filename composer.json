@@ -14,6 +14,13 @@
             "email": "a.elngar965@gmail.com"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Elngar\\CrudGenerator\\CrudGeneratorServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }

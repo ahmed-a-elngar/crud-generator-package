@@ -1,0 +1,19 @@
+{
+    "name": "elngar/crud_generator",
+    "description": "helper to generate crud operations, model, relations, resource, form request, routes and more",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elngar\\CrudGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed AbdElaziz",
+            "email": "a.elngar965@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
